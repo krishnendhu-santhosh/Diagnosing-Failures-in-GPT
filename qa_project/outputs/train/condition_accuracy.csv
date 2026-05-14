@@ -1,0 +1,16 @@
+condition,dataset,EM (%),F1 (%),n
+Baseline (Closed-Book),Natural Questions,44.4,48.3,36
+Baseline (Closed-Book),TriviaQA,45.5,46.8,33
+Baseline (Closed-Book),HotpotQA,45.2,51.5,31
+RAG Only,Natural Questions,0.0,0.0,36
+RAG Only,TriviaQA,0.0,0.0,33
+RAG Only,HotpotQA,0.0,0.0,31
+CoT Only,Natural Questions,66.7,74.5,36
+CoT Only,TriviaQA,69.7,69.7,33
+CoT Only,HotpotQA,16.1,16.1,31
+RAG + CoT,Natural Questions,5.6,5.6,36
+RAG + CoT,TriviaQA,0.0,0.0,33
+RAG + CoT,HotpotQA,6.5,6.5,31
+RAG + CoT + Self-Verify,Natural Questions,0.0,0.0,36
+RAG + CoT + Self-Verify,TriviaQA,0.0,0.0,33
+RAG + CoT + Self-Verify,HotpotQA,6.5,8.6,31

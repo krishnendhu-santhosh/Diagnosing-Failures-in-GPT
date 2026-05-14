@@ -1,0 +1,101 @@
+question_id,source_dataset,question,ground_truth,prediction,em,f1,error_type,num_hops_required,domain,recall_at5
+Q001,Natural Questions,What is the capital of Australia?,Canberra,,0,0.0,knowledge,1,geography,1.0
+Q002,Natural Questions,Who invented the telephone?,Alexander Graham Bell,,0,0.0,none,1,history,1.0
+Q003,Natural Questions,In what year was the Eiffel Tower completed?,1889,,0,0.0,knowledge,1,history,1.0
+Q004,Natural Questions,What is the largest ocean on Earth?,Pacific Ocean,,0,0.0,none,1,geography,1.0
+Q005,Natural Questions,Who wrote the novel 1984?,George Orwell,,0,0.0,none,1,literature,1.0
+Q006,Natural Questions,What element has the atomic number 79?,Gold,,0,0.0,knowledge,1,science,1.0
+Q007,Natural Questions,What is the chemical formula for water?,H2O,,0,0.0,none,1,science,1.0
+Q008,Natural Questions,Who painted the Mona Lisa?,Leonardo da Vinci,,0,0.0,none,1,art,1.0
+Q009,Natural Questions,Which planet is closest to the Sun?,Mercury,,0,0.0,none,1,science,1.0
+Q010,Natural Questions,What is the longest river in the world?,Nile,,0,0.0,knowledge,1,geography,1.0
+Q011,Natural Questions,Who was the first person to walk on the Moon?,Neil Armstrong,,0,0.0,none,1,history,1.0
+Q012,Natural Questions,What year did World War II end?,1945,,0,0.0,none,1,history,1.0
+Q013,Natural Questions,What is the speed of light in a vacuum?,299792458 m/s,,0,0.0,knowledge,1,science,1.0
+Q014,Natural Questions,Who is the author of the Harry Potter series?,J.K. Rowling,,0,0.0,none,1,literature,1.0
+Q015,Natural Questions,What is the smallest country in the world by area?,Vatican City,,0,0.0,knowledge,1,geography,1.0
+Q016,Natural Questions,What is the main language spoken in Brazil?,Portuguese,,0,0.0,knowledge,1,culture,1.0
+Q017,Natural Questions,Who developed the theory of general relativity?,Albert Einstein,,0,0.0,none,1,science,1.0
+Q018,Natural Questions,What is the boiling point of water in Celsius?,100,,0,0.0,none,1,science,1.0
+Q019,Natural Questions,What country has the highest population?,China,,0,0.0,none,1,geography,1.0
+Q020,Natural Questions,In what city is the Colosseum located?,Rome,,0,0.0,none,1,history,1.0
+Q021,TriviaQA,What organ produces insulin?,Pancreas,,0,0.0,none,1,science,1.0
+Q022,TriviaQA,What is the hardest natural substance on Earth?,Diamond,,0,0.0,none,1,science,1.0
+Q023,TriviaQA,How many bones are in the adult human body?,206,,0,0.0,knowledge,1,science,1.0
+Q024,TriviaQA,What is the national currency of Japan?,Yen,,0,0.0,none,1,culture,1.0
+Q025,TriviaQA,What is the square root of 144?,12,,0,0.0,none,1,mathematics,1.0
+Q026,TriviaQA,Who wrote Romeo and Juliet?,William Shakespeare,,0,0.0,none,1,literature,1.0
+Q027,TriviaQA,What is the tallest mountain on Earth?,Mount Everest,,0,0.0,none,1,geography,1.0
+Q028,TriviaQA,What year was the United Nations founded?,1945,,0,0.0,knowledge,1,history,1.0
+Q029,TriviaQA,Who invented the printing press?,Johannes Gutenberg,,0,0.0,none,1,history,1.0
+Q030,TriviaQA,What is the chemical symbol for gold?,Au,,0,0.0,none,1,science,1.0
+Q031,TriviaQA,How many continents are there on Earth?,7,,0,0.0,none,1,geography,1.0
+Q032,TriviaQA,What is the largest planet in our solar system?,Jupiter,,0,0.0,none,1,science,1.0
+Q033,TriviaQA,Who was the first president of the United States?,George Washington,,0,0.0,none,1,history,1.0
+Q034,TriviaQA,How many strings does a standard guitar have?,6,,0,0.0,none,1,culture,1.0
+Q035,TriviaQA,What is the largest desert in the world?,Antarctic Desert,,0,0.0,knowledge,1,geography,1.0
+Q036,TriviaQA,Who composed Symphony No. 5?,Ludwig van Beethoven,,0,0.0,none,1,art,1.0
+Q037,TriviaQA,What is the chemical symbol for iron?,Fe,,0,0.0,none,1,science,1.0
+Q038,TriviaQA,How many planets are in our solar system?,8,,0,0.0,knowledge,1,science,1.0
+Q039,TriviaQA,What is the most spoken language in the world by native speakers?,Mandarin Chinese,,0,0.0,knowledge,1,culture,1.0
+Q040,TriviaQA,What does DNA stand for?,Deoxyribonucleic acid,,0,0.0,none,1,science,1.0
+Q041,HotpotQA,Who is the director of the film that stars the actor who played Iron Man?,Jon Favreau,,0,0.0,reasoning,2,culture,1.0
+Q042,HotpotQA,What is the birthplace of the author of the novel that inspired the film The Wizard of Oz?,Chittenango New York,,0,0.0,reasoning,2,culture,1.0
+Q043,HotpotQA,Which country is home to the city where the Treaty of Westphalia was signed?,Germany,,0,0.0,reasoning,2,history,1.0
+Q044,HotpotQA,What is the nationality of the scientist who discovered the element with atomic number 88?,French,,0,0.0,reasoning,2,science,1.0
+Q045,HotpotQA,Who was the president of the United States when the Berlin Wall fell?,George H.W. Bush,,0,0.0,reasoning,2,history,1.0
+Q046,HotpotQA,What language is spoken in the country that borders Brazil to the west?,Spanish,,0,0.0,reasoning,2,geography,1.0
+Q047,HotpotQA,Who wrote the book that was adapted into the film directed by Christopher Nolan called Interstellar?,Jonathan Nolan and Christopher Nolan,,0,0.0,reasoning,2,culture,1.0
+Q048,HotpotQA,What is the capital of the country that produces the most coffee in the world?,Brasilia,,0,0.0,reasoning,2,geography,1.0
+Q049,HotpotQA,Who preceded the leader who approved the moon landing as US president?,Lyndon B. Johnson,,0,0.0,reasoning,2,history,1.0
+Q050,HotpotQA,What is the official language of the country where the Amazon River originates?,Spanish,,0,0.0,reasoning,2,geography,1.0
+Q051,HotpotQA,In what decade was the composer of Bohemian Rhapsody born?,1940s,,0,0.0,reasoning,2,culture,1.0
+Q052,HotpotQA,What is the currency of the country where the company that makes the iPhone is headquartered?,US Dollar,,0,0.0,none,2,culture,1.0
+Q053,HotpotQA,Who painted the artwork that hangs in the Louvre and was stolen in 1911?,Leonardo da Vinci,,0,0.0,reasoning,2,art,1.0
+Q054,HotpotQA,What sport was played in the city where the first modern Olympics was held?,Athletics / Track and Field,,0,0.0,reasoning,2,culture,1.0
+Q055,HotpotQA,What is the height of the building in Chicago designed by the architect Fazlur Rahman Khan?,1450 feet,,0,0.0,reasoning,2,science,1.0
+Q056,HotpotQA,What is the birth year of the US president who signed the Civil Rights Act of 1964?,1908,,0,0.0,reasoning,2,history,1.0
+Q057,HotpotQA,What ocean does the river that runs through Cairo empty into?,Mediterranean Sea,,0,0.0,reasoning,2,geography,1.0
+Q058,HotpotQA,How many Academy Awards did the film directed by Peter Jackson based on Tolkien's work win?,11,,0,0.0,reasoning,3,culture,1.0
+Q059,HotpotQA,What country did the inventor of dynamite come from?,Sweden,,0,0.0,knowledge,1,history,1.0
+Q060,HotpotQA,Who was the mentor of the scientist who discovered penicillin?,Sir Almroth Wright,,0,0.0,reasoning,2,science,1.0
+Q061,Natural Questions,What is the currency of the United Kingdom?,Pound Sterling,,0,0.0,none,1,culture,1.0
+Q062,Natural Questions,Who developed the polio vaccine?,Jonas Salk,,0,0.0,none,1,science,1.0
+Q063,Natural Questions,What is the largest organ of the human body?,Skin,,0,0.0,knowledge,1,science,1.0
+Q064,Natural Questions,What planet is known as the Red Planet?,Mars,,0,0.0,none,1,science,1.0
+Q065,Natural Questions,How many sides does a hexagon have?,6,,0,0.0,none,1,mathematics,1.0
+Q066,Natural Questions,What is the national sport of Canada?,Ice Hockey,,0,0.0,none,1,culture,1.0
+Q067,TriviaQA,What is the largest mammal in the world?,Blue Whale,,0,0.0,none,1,science,1.0
+Q068,TriviaQA,Who wrote the Iliad?,Homer,,0,0.0,none,1,literature,1.0
+Q069,TriviaQA,What is the atomic number of carbon?,6,,0,0.0,none,1,science,1.0
+Q070,TriviaQA,How many colors are in a rainbow?,7,,0,0.0,none,1,science,1.0
+Q071,HotpotQA,Who is the founder of the company that operates the social media platform acquired by Elon Musk in 2022?,Jack Dorsey,,0,0.0,reasoning,2,culture,1.0
+Q072,HotpotQA,What is the population of the city where the headquarters of the World Health Organization is located?,203000,,0,0.0,reasoning,2,geography,1.0
+Q073,HotpotQA,What is the national dish of the country that shares a border with France to the south?,Paella,,0,0.0,reasoning,2,culture,1.0
+Q074,HotpotQA,Who wrote the play that inspired the Leonardo DiCaprio film Romeo + Juliet?,William Shakespeare,,0,0.0,reasoning,2,culture,1.0
+Q075,HotpotQA,What is the name of the moon of the planet known for its Great Red Spot?,Io,,0,0.0,reasoning,2,science,1.0
+Q076,Natural Questions,What is the freezing point of water in Fahrenheit?,32,,0,0.0,none,1,science,1.0
+Q077,Natural Questions,How many days are there in a leap year?,366,,0,0.0,knowledge,1,mathematics,1.0
+Q078,Natural Questions,What is the capital of France?,Paris,,0,0.0,none,1,geography,1.0
+Q079,Natural Questions,Who discovered gravity?,Isaac Newton,,0,0.0,none,1,science,1.0
+Q080,Natural Questions,What is the most abundant gas in Earth's atmosphere?,Nitrogen,,0,0.0,knowledge,1,science,1.0
+Q081,TriviaQA,What is the name of the longest bone in the human body?,Femur,,0,0.0,none,1,science,1.0
+Q082,TriviaQA,Who founded Apple Inc.?,Steve Jobs,,0,0.0,none,1,culture,1.0
+Q083,TriviaQA,How many teeth does an adult human normally have?,32,,0,0.0,none,1,science,1.0
+Q084,TriviaQA,What is the sum of angles in a triangle?,180 degrees,,0,0.0,none,1,mathematics,1.0
+Q085,TriviaQA,What year did the Titanic sink?,1912,,0,0.0,none,1,history,1.0
+Q086,HotpotQA,What is the hometown of the musician who wrote the song that became the unofficial anthem of the Vietnam War protests?,Port Arthur Texas,,0,0.0,reasoning,2,culture,1.0
+Q087,HotpotQA,What university did the founder of Facebook attend before dropping out?,Harvard University,,0,0.0,none,2,culture,1.0
+Q088,HotpotQA,In which year was the novel published that features the character who attends Hogwarts?,1997,,0,0.0,none,2,literature,1.0
+Q089,HotpotQA,What is the home country of the tennis player who has won the most Grand Slam titles (male)?,Serbia,,0,0.0,reasoning,2,culture,1.0
+Q090,HotpotQA,What element is the primary component of the Sun?,Hydrogen,,0,0.0,knowledge,1,science,1.0
+Q091,Natural Questions,What is the largest country by area?,Russia,,0,0.0,none,1,geography,1.0
+Q092,Natural Questions,How many chambers does the human heart have?,4,,0,0.0,none,1,science,1.0
+Q093,Natural Questions,Who invented the lightbulb?,Thomas Edison,,0,0.0,none,1,history,1.0
+Q094,Natural Questions,What is the currency of China?,Renminbi / Yuan,,0,0.0,none,1,culture,1.0
+Q095,Natural Questions,What is the world's most visited museum?,Louvre,,0,0.0,knowledge,1,culture,1.0
+Q096,TriviaQA,What is the largest internal organ in the human body?,Liver,,0,0.0,none,1,science,1.0
+Q097,TriviaQA,What is the chemical formula for table salt?,NaCl,,0,0.0,none,1,science,1.0
+Q098,TriviaQA,How many meters are in a kilometer?,1000,,0,0.0,none,1,mathematics,1.0
+Q099,TriviaQA,Who was the first woman to win a Nobel Prize?,Marie Curie,,0,0.0,none,1,history,1.0
+Q100,HotpotQA,What is the capital of the country that hosts the annual Cannes Film Festival?,Paris,,0,0.0,reasoning,2,culture,1.0

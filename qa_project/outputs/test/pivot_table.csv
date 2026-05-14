@@ -1,0 +1,6 @@
+condition,HotpotQA,Natural Questions,TriviaQA,Average
+Baseline (Closed-Book),6.2,76.5,82.4,55.0
+CoT Only,6.2,82.4,88.2,58.9
+RAG + CoT,100.0,100.0,100.0,100.0
+RAG + CoT + Self-Verify,100.0,100.0,100.0,100.0
+RAG Only,100.0,100.0,100.0,100.0

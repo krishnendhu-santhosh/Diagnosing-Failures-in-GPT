@@ -1,0 +1,51 @@
+question_id,source_dataset,question,ground_truth,prediction,em,f1,error_type,num_hops_required,domain,recall_at5
+T001,Natural Questions,What is the capital of Canada?,Ottawa,Ottawa,1,1.0,knowledge,1,geography,1.0
+T002,Natural Questions,Who wrote the play Hamlet?,William Shakespeare,William Shakespeare,1,1.0,none,1,literature,1.0
+T003,Natural Questions,What is the chemical symbol for sodium?,Na,Na,1,1.0,none,1,science,1.0
+T004,Natural Questions,In what year did the French Revolution begin?,1789,1789,1,1.0,none,1,history,1.0
+T005,Natural Questions,What is the tallest waterfall in the world?,Angel Falls,Angel Falls,1,1.0,knowledge,1,geography,1.0
+T006,Natural Questions,Who invented the World Wide Web?,Tim Berners-Lee,Tim Berners-Lee,1,1.0,none,1,history,1.0
+T007,Natural Questions,How many symphonies did Beethoven compose?,9,9,1,1.0,none,1,art,1.0
+T008,Natural Questions,What is the largest continent by area?,Asia,Asia,1,1.0,none,1,geography,1.0
+T009,Natural Questions,What gas do plants absorb during photosynthesis?,Carbon dioxide,Carbon dioxide,1,1.0,none,1,science,1.0
+T010,Natural Questions,Who is the author of the Divine Comedy?,Dante Alighieri,Dante Alighieri,1,1.0,none,1,literature,1.0
+T011,Natural Questions,What is the smallest planet in the solar system?,Mercury,Mercury,1,1.0,knowledge,1,science,1.0
+T012,Natural Questions,Which country invented paper?,China,China,1,1.0,knowledge,1,history,1.0
+T013,Natural Questions,What is the powerhouse of the cell?,Mitochondria,Mitochondria,1,1.0,none,1,science,1.0
+T014,Natural Questions,Who painted the Sistine Chapel ceiling?,Michelangelo,Michelangelo,1,1.0,none,1,art,1.0
+T015,Natural Questions,What is the capital of Japan?,Tokyo,Tokyo,1,1.0,none,1,geography,1.0
+T016,TriviaQA,What is the longest bone in the human body?,Femur,Femur,1,1.0,none,1,science,1.0
+T017,TriviaQA,Which element has the symbol K?,Potassium,Potassium,1,1.0,none,1,science,1.0
+T018,TriviaQA,What is the currency of India?,Indian Rupee,Indian Rupee,1,1.0,none,1,culture,1.0
+T019,TriviaQA,How many players are on a standard basketball team on the court?,5,5,1,1.0,none,1,culture,1.0
+T020,TriviaQA,Who wrote the novel Moby Dick?,Herman Melville,Herman Melville,1,1.0,none,1,literature,1.0
+T021,TriviaQA,What is the second largest planet in our solar system?,Saturn,Saturn,1,1.0,knowledge,1,science,1.0
+T022,TriviaQA,What country is the Great Barrier Reef located in?,Australia,Australia,1,1.0,none,1,geography,1.0
+T023,TriviaQA,Who painted Starry Night?,Vincent van Gogh,Vincent van Gogh,1,1.0,none,1,art,1.0
+T024,TriviaQA,What is the capital of Germany?,Berlin,Berlin,1,1.0,none,1,geography,1.0
+T025,TriviaQA,In what year did the Berlin Wall fall?,1989,1989,1,1.0,none,1,history,1.0
+T026,TriviaQA,What is the most widely spoken language in Africa by number of speakers?,Arabic,Arabic,1,1.0,knowledge,1,culture,1.0
+T027,TriviaQA,What is the atomic mass of oxygen (rounded)?,16,16,1,1.0,none,1,science,1.0
+T028,TriviaQA,What organ filters blood in the human body?,Kidneys,Kidneys,1,1.0,knowledge,1,science,1.0
+T029,TriviaQA,Who wrote the theory of evolution by natural selection?,Charles Darwin,Charles Darwin,1,1.0,none,1,science,1.0
+T030,TriviaQA,What is the largest ocean by area?,Pacific Ocean,Pacific Ocean,1,1.0,none,1,geography,1.0
+T031,HotpotQA,What is the birthplace of the author who wrote the novel on which the film Schindler's List is based?,Nowra New South Wales Australia,Nowra New South Wales Australia,1,1.0,reasoning,2,culture,1.0
+T032,HotpotQA,What is the capital of the country that won the FIFA World Cup in 2018?,Paris,Paris,1,1.0,reasoning,2,geography,1.0
+T033,HotpotQA,Who was the vice president of the United States when the first iPhone was released?,Dick Cheney,Dick Cheney,1,1.0,reasoning,2,history,1.0
+T034,HotpotQA,What is the nationality of the composer of the opera La Traviata?,Italian,Italian,1,1.0,reasoning,2,art,1.0
+T035,HotpotQA,In what city was the company founded that created the Windows operating system?,Albuquerque New Mexico,Albuquerque New Mexico,1,1.0,reasoning,2,culture,0.0
+T036,HotpotQA,What language is spoken in the country where the Sahara Desert is largest in area?,Arabic,Arabic,1,1.0,reasoning,2,geography,1.0
+T037,HotpotQA,What is the name of the river that flows through the city where Shakespeare was born?,River Avon,River Avon,1,1.0,reasoning,2,geography,1.0
+T038,HotpotQA,Who succeeded the US president who was in office during the Cuban Missile Crisis?,Lyndon B. Johnson,Lyndon B. Johnson,1,1.0,reasoning,2,history,1.0
+T039,HotpotQA,What is the official language of the country where Machu Picchu is located?,Spanish,Spanish,1,1.0,reasoning,2,culture,1.0
+T040,HotpotQA,What year was the painting technique used by the artist who painted The Persistence of Memory first developed?,1920s,1920s,1,1.0,reasoning,3,art,0.0
+T041,HotpotQA,What country borders the nation where the Amazon River flows into the ocean?,French Guiana,French Guiana,1,1.0,reasoning,2,geography,1.0
+T042,HotpotQA,Who was the prime minister of the UK when the European Union was formed as the EU under the Maastricht Treaty?,John Major,John Major,1,1.0,reasoning,2,history,1.0
+T043,HotpotQA,What is the hometown of the physicist who developed quantum electrodynamics and the bongo drums?,Far Rockaway New York,Far Rockaway New York,1,1.0,reasoning,2,science,1.0
+T044,HotpotQA,What is the currency of the country where the headquarters of Interpol is based?,Euro,Euro,1,1.0,reasoning,2,culture,1.0
+T045,HotpotQA,How many Grand Slam titles had Serena Williams won when she won her last Grand Slam title?,23,23,1,1.0,reasoning,2,culture,1.0
+T046,Natural Questions,What is the formula for the area of a circle?,pi r squared,pi r squared,1,1.0,none,1,mathematics,1.0
+T047,Natural Questions,Who directed the movie Jurassic Park?,Steven Spielberg,Steven Spielberg,1,1.0,none,1,culture,1.0
+T048,TriviaQA,What is the pH of pure water?,7,7,1,1.0,none,1,science,1.0
+T049,TriviaQA,In what year was the Magna Carta signed?,1215,1215,1,1.0,none,1,history,1.0
+T050,HotpotQA,What is the name of the ocean that the Titanic was crossing when it sank?,Atlantic Ocean,Atlantic Ocean,1,1.0,none,1,history,1.0
